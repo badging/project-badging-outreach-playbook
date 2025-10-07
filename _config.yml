@@ -1,0 +1,23 @@
+title: "CHAOSS DEI Project Badging Outreach Playbook"
+description: "Playbook for CHAOSS DEI Project Badging outreach ambassadors."
+url: "https://badging.github.io"
+baseurl: "/project-badging-outreach-playbook"
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+
+
+repository: "https://github.com/badging/project-badging-outreach-playbook"
+nav_order:
+- 01-outreach-ambassador.md
+- 02-about-project-badging.md
+- 03-how-it-works.md
+- 04-key-talking-points.md
+- 05-conversation-flow.md
+- 06-FAQs.md
+- 07-resources.md
+- 08-follow-up.md
+- 09-tracking-and-reporting.md
+- 10-templates.md
+- 11-outreach-checklist.md
+- 12-contact-points.md
