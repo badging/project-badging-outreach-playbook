@@ -12,7 +12,7 @@ A: This isn’t about passing or failing. The goal is reflection and improvement
 A: Most projects complete the `DEI.md` file and application in just a few hours. It depends on how much you already have documented.
 
 **Q: Do we need to make big changes before applying?**  
-A: No — the application is about documenting your current practices honestly. You can always update later as your DEI work grows.
+A: No. The application is about documenting your current practices honestly. You can always update later as your DEI work grows.
 
 **Q: Who should be involved in this process?**  
 A: Usually project maintainers, admins, or community organisers lead the process, but it’s even better if they invite contributors to give input.

@@ -5,6 +5,7 @@ layout: default
 ---
 
 ## Email Template
+---
 **Subject:** Showcase Your Project’s Commitment to DEI with a CHAOSS DEI Project Badge  
 
 _Hello [Project Maintainer Name],_  
@@ -23,6 +24,7 @@ _Warm regards,
 Member, CHAOSS DEI Working Group_
 
 ## Slide Template
+---
 - What is CHAOSS?  
 - Why DEI Matters in Open Source  
 - What is Project Badging?  
@@ -32,6 +34,7 @@ Member, CHAOSS DEI Working Group_
 - Support Available
 
 ## Social Media Snippets
+---
 - “Show your community’s commitment to DEI: Apply for a CHAOSS Project Badge. Simple process, lasting impact 👉 https://chaoss.community/badging/project-badging/”  
 - “Healthy communities are inclusive communities. Get your project recognized with the CHAOSS DEI Badge. 🏅 #OpenSource #DEI https://chaoss.community/badging/project-badging/”
 

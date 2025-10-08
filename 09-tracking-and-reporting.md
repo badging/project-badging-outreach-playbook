@@ -14,4 +14,4 @@ To measure outreach impact, log your efforts:
 - What was shared (talk, email, meeting)  
 - Current status (interested, applied, badged, no response)  
 
-Please use this [spreadsheet](https://docs.google.com/spreadsheets/d/1eFjalXuNnkXWPzXxx6UgUgyCZeknFtORKuC3VGTDBhM/edit?gid=0#gid=0) to log your report.
+Please use this [spreadsheet](https://docs.google.com/spreadsheets/d/1eFjalXuNnkXWPzXxx6UgUgyCZeknFtORKuC3VGTDBhM/edit?gid=510776660#gid=510776660) to log your report.
